@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGkxgpcPp8hAYpAK9FC1FWNWNhtK3OAiI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39160415029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.landlordlab.app</string>
+	<key>PROJECT_ID</key>
+	<string>landlordlab-5c156</string>
+	<key>STORAGE_BUCKET</key>
+	<string>landlordlab-5c156.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39160415029:ios:297716358a4c6a5c20c27c</string>
+</dict>
+</plist>
